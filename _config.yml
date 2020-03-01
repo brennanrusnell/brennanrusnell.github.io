@@ -58,7 +58,7 @@ plugins:
 author:
   name   : "Brennan Rusnell"
   avatar : "/assets/images/portrait-photo.jpg"
-  bio    : "Computer Programmer living in Vancouver, British Columbia."
+  bio    : "Computer Programmer."
   links:
     - label: "Vancouver, British Columbia"
       icon: "fa fa-fw fa-map-marker"
