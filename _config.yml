@@ -64,7 +64,7 @@ author:
       icon: "fas fa-map-marker-alt"
       url: "https://goo.gl/maps/zZptFdqzD67TMnRK9"
     - label: "Email"
-      icon: "fa fa-fw fa-envelope-square"
+      icon: "fas fa-envelope-square"
       url: "mailto:brennan.rusnell@gmail.com"
     - label: "Twitter"
       icon: "fab fa-twitter-square"
