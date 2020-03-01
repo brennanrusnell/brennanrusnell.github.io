@@ -73,13 +73,13 @@ author:
       icon: "fab fa-linkedin"
       url: "https://www.linkedin.com/in/brennanrusnell/"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "fab fa-github"
       url: "https://github.com/brennanrusnell/"
 
 footer:
   links:
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "fab fa-github"
       url: "https://github.com/brennanrusnell/"
 
 defaults:
