@@ -62,24 +62,24 @@ author:
   links:
     - label: "Vancouver, British Columbia"
       icon: "fa fa-fw fa-map-marker"
-      url: ""
+      url: "https://goo.gl/maps/zZptFdqzD67TMnRK9"
     - label: "Email"
       icon: "fa fa-fw fa-envelope-square"
       url: "mailto:brennan.rusnell@gmail.com"
     - label: "Twitter"
-      icon: "fa fa-fw fa-twitter-square"
+      icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/brennanrusnell/"
     - label: "LinkedIn"
-      icon: "fa fa-fw fa-linkedin-square"
+      icon: "fab fa-fw fa-linkedin-square"
       url: "https://www.linkedin.com/in/brennanrusnell/"
     - label: "GitHub"
-      icon: "fa fa-fw fa-github"
+      icon: "fab fa-fw fa-github"
       url: "https://github.com/brennanrusnell/"
 
 footer:
   links:
     - label: "GitHub"
-      icon: "fa fa-fw fa-github"
+      icon: "fab fa-fw fa-github"
       url: "https://github.com/brennanrusnell/"
 
 defaults:
