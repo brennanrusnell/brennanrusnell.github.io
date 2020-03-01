@@ -61,22 +61,25 @@ author:
   bio    : "Computer Programmer living in Vancouver, British Columbia."
   links:
     - label: "Vancouver, British Columbia"
-      icon: "fab fa-fw fa-map-marker"
+      icon: "fa fa-fw fa-map-marker"
       url: ""
+    - label: "Email"
+      icon: "fa fa-fw fa-envelope-square"
+      url: "mailto:brennan.rusnell@gmail.com"
     - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
+      icon: "fa fa-fw fa-twitter-square"
       url: "https://twitter.com/brennanrusnell/"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin-square"
+      icon: "fa fa-fw fa-linkedin-square"
       url: "https://www.linkedin.com/in/brennanrusnell/"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "fa fa-fw fa-github"
       url: "https://github.com/brennanrusnell/"
 
 footer:
   links:
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
+      icon: "fa fa-fw fa-github"
       url: "https://github.com/brennanrusnell/"
 
 defaults:
